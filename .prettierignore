@@ -1,0 +1,12 @@
+# 
+personal
+
+# files
+package-lock.json
+vite-env.d.ts
+
+# Ignore artifacts:
+node_modules
+dist
+build
+Coverage
